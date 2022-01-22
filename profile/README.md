@@ -2,7 +2,7 @@
 
 [<img alt="GitHub Discussions" src="https://shields.io/badge/GitHub%20Discussions-gray?logo=github&style=flat-square&label=">][discussions-url]
 [<img alt="Twitter" src="https://shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat-square&logoColor=white">][twitter]
-[<img alt="Twitter" src="https://shields.io/badge/Discord-5865F2?logo=discord&style=flat-square&logoColor=white">][discord]
+[<img alt="Discord" src="https://shields.io/badge/Discord-5865F2?logo=discord&style=flat-square&logoColor=white">][discord]
 
 We're building CSS Tools to enable you to use the newest features of CSS without having to worry about the browsers you're supporting.
 
