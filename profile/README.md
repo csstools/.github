@@ -1,4 +1,4 @@
-# Hey there 👋! [<img src="https://postcss.github.io/postcss/logo.svg" alt="PostCSS" width="90" height="90" align="right">][postcss-repo]
+# Hey there 👋! [<img src="https://cssdb.org/images/css.svg" alt="" width="90" height="90" align="right">][csstools]
 
 [<img alt="GitHub Discussions" src="https://shields.io/badge/GitHub%20Discussions-gray?logo=github&style=flat-square&label=">][discussions-url]
 [<img alt="Twitter" src="https://shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat-square&logoColor=white">][twitter]
@@ -20,6 +20,7 @@ We're available through these channels:
 
 And if you're curious to know what we're working on or how could you contribute, the [projects](https://github.com/orgs/csstools/projects?type=beta) are always a good first stop!
 
+[csstools]: https://github.com/csstools/postcss-plugins
 [postcss-repo]: https://github.com/postcss/postcss
 [postcss-home]: https://github.com/postcss/postcss
 [cssdb]: https://cssdb.org
