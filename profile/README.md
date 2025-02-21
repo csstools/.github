@@ -16,7 +16,6 @@ We're available through these channels:
 
 * [Discord][discord]
 * [Discussions][discussions-url]
-* [Twitter][twitter]
 
 And if you're curious to know what we're working on or how could you contribute, the [projects](https://github.com/orgs/csstools/projects?type=beta) are always a good first stop!
 
@@ -27,4 +26,3 @@ And if you're curious to know what we're working on or how could you contribute,
 [discussions-url]: https://github.com/csstools/postcss-plugins/discussions
 [preset-env]: https://github.com/csstools/postcss-plugins/tree/main/plugin-packs/postcss-preset-env
 [discord]: https://discord.gg/bUadyRwkJS
-[twitter]: https://twitter.com/css_tools_
