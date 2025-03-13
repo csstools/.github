@@ -1,7 +1,6 @@
 # Hey there 👋! [<img src="https://cssdb.org/images/css.svg" alt="" width="90" height="90" align="right">][csstools]
 
 [<img alt="GitHub Discussions" src="https://shields.io/badge/GitHub%20Discussions-gray?logo=github&style=flat-square&label=">][discussions-url]
-[<img alt="Twitter" src="https://shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat-square&logoColor=white">][twitter]
 [<img alt="Discord" src="https://img.shields.io/discord/853978108758851604?color=5865F2&label=Discord&logo=discord&logoColor=white&style=flat-square">][discord]
 
 We're building CSS Tools to enable you to use the newest features of CSS without having to worry about the browsers you're supporting.
